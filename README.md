@@ -6,6 +6,7 @@
 - Diagramme de cas d'utilisation
 - Diagramme de classe
 - Diagramme de séquence
+- [Collaborateurs](#Colllaborateurs)
 
 ### Cahier des charges
 
@@ -19,3 +20,6 @@ création de sites web dynamiques et interactifs
 ### Diagramme de cas d'utilisation
 ### Diagramme de classe
 ### Diagramme de séquence
+### <a name="Colllaborateurs"></a> Collaborateurs
+- AIT KIKA Marouane
+- CHALATI Yassine
