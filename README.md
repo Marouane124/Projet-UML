@@ -3,9 +3,9 @@
 ## Table of Contents
 - Description
 - [Cahier des Charges](https://github.com/Marouane124/Projet-UML/blob/e5ebaa868576db7853c38adf07c8265fa019e7e4/Cahier%20des%20charges.pdf)
-- Use Case Diagram (Diagramme de cas d'utilisation)
-- Class Diagram (Diagramme de classes)
-- Sequence Diagram (Diagramme de séquence)
+- Diagramme de cas d'utilisation
+- Diagramme de classe
+- Diagramme de séquence
 - Getting Started
 
 ### Cahier des charges
