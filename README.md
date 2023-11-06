@@ -3,10 +3,10 @@
 ## Table of Contents
 - Description
 - [Cahier des Charges](https://github.com/Marouane124/Projet-UML/blob/e5ebaa868576db7853c38adf07c8265fa019e7e4/Cahier%20des%20charges.pdf)
-- Diagramme de cas d'utilisation
-- Diagramme de classe
-- Diagramme de séquence
-- [Collaborateurs](#Colllaborateurs)
+- [Diagramme de cas d'utilisation](#use-case)
+- [Diagramme de classe](#class)
+-[ Diagramme de séquence](#sequence)
+- [Collaborateurs](#Collaborateurs)
 
 ### Cahier des charges
 
@@ -17,9 +17,9 @@ besoins des apprenants, qu'ils soient débutants ou avancés. Cette plateforme c
 éventail de langages de programmation, de technologies web et de concepts clés essentiels à la 
 création de sites web dynamiques et interactifs 
 
-### Diagramme de cas d'utilisation
-### Diagramme de classe
-### Diagramme de séquence
-### <a name="Colllaborateurs"></a> Collaborateurs
+### <a name="use-case"></a> Diagramme de cas d'utilisation
+### <a name="class"></a> Diagramme de classe
+### <a name="sequence"></a> Diagramme de séquence
+### <a name="Collaborateurs"></a> Collaborateurs
 - AIT KIKA Marouane
 - CHALATI Yassine
