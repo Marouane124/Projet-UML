@@ -6,7 +6,6 @@
 - Diagramme de cas d'utilisation
 - Diagramme de classe
 - Diagramme de séquence
-- Getting Started
 
 ### Cahier des charges
 
@@ -16,3 +15,7 @@ tutoriels, de guides et de ressources interactives soigneusement élaborés pour
 besoins des apprenants, qu'ils soient débutants ou avancés. Cette plateforme couvre un large 
 éventail de langages de programmation, de technologies web et de concepts clés essentiels à la 
 création de sites web dynamiques et interactifs 
+
+### Diagramme de cas d'utilisation
+### Diagramme de classe
+### Diagramme de séquence
