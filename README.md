@@ -5,7 +5,7 @@
 - [Cahier des Charges](https://github.com/Marouane124/Projet-UML/blob/e5ebaa868576db7853c38adf07c8265fa019e7e4/Cahier%20des%20charges.pdf)
 - [Diagramme de cas d'utilisation](#use-case)
 - [Diagramme de classe](#class)
--[ Diagramme de séquence](#sequence)
+- [Diagramme de séquence](#sequence)
 - [Collaborateurs](#Collaborateurs)
 
 ### Cahier des charges
