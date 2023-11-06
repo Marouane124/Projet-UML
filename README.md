@@ -18,6 +18,7 @@ besoins des apprenants, qu'ils soient débutants ou avancés. Cette plateforme c
 création de sites web dynamiques et interactifs 
 
 ### <a name="use-case"></a> Diagramme de cas d'utilisation
+[Diagramme de cas d'utilisation](https://github.com/Marouane124/Projet-UML/blob/main/Diagrammes/Use%20case%20diagramme.jpeg)
 ### <a name="class"></a> Diagramme de classe
 ### <a name="sequence"></a> Diagramme de séquence
 ### <a name="Collaborateurs"></a> Collaborateurs
