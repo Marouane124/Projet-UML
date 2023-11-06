@@ -22,6 +22,7 @@ création de sites web dynamiques et interactifs [Cahier des Charges](https://gi
 ### <a name="class"></a> Diagramme de classe
 ### <a name="sequence"></a> Diagramme de séquence
 ### <a name="etat-davancement"></a> Etat d'avancement
+Nous avons modifié le cahier des charges et créé la première version du diagramme de cas d'utilisation et complété le fichier README avec des ancres(anchors) aux l'emplacements appropriés
 ### <a name="Collaborateurs"></a> Collaborateurs
 - AIT KIKA Marouane
 - CHALATI Yassine
