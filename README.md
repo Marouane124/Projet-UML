@@ -5,6 +5,7 @@
 - [Diagramme de cas d'utilisation](#use-case)
 - [Diagramme de classe](#class)
 - [Diagramme de séquence](#sequence)
+- [Etat d'avancement](#etat-davancement)
 - [Collaborateurs](#Collaborateurs)
 
 ### <a name="cahier-des-charges"></a> Cahier des charges
@@ -20,6 +21,8 @@ création de sites web dynamiques et interactifs [Cahier des Charges](https://gi
 [Diagramme de cas d'utilisation](https://github.com/Marouane124/Projet-UML/blob/main/Diagrammes/Use%20case%20diagramme.jpeg)
 ### <a name="class"></a> Diagramme de classe
 ### <a name="sequence"></a> Diagramme de séquence
+### <a name="etat-davancement"></a> Etat d'avancement
 ### <a name="Collaborateurs"></a> Collaborateurs
 - AIT KIKA Marouane
 - CHALATI Yassine
+  
