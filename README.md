@@ -18,7 +18,7 @@ besoins des apprenants, qu'ils soient débutants ou avancés. Cette plateforme c
 création de sites web dynamiques et interactifs [Cahier des Charges](https://github.com/Marouane124/Projet-UML/blob/e5ebaa868576db7853c38adf07c8265fa019e7e4/Cahier%20des%20charges.pdf).
 
 ### <a name="use-case"></a> Diagramme de cas d'utilisation
-[Diagramme de cas d'utilisation](https://github.com/Marouane124/Projet-UML/blob/main/Diagrammes/Use%20case%20diagramme.jpeg)
+[Diagramme de cas d'utilisation](https://github.com/Marouane124/Projet-UML/blob/main/Diagrammes/Use%20Case%20Diagram.jpg)
 ### <a name="class"></a> Diagramme de classe
 ### <a name="sequence"></a> Diagramme de séquence
 ### <a name="etat-davancement"></a> Etat d'avancement
