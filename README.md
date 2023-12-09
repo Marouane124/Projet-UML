@@ -1,4 +1,3 @@
-# Projet-UML
 
 ## Table of Contents
 - [Cahier des Charges](#cahier-des-charges)
@@ -18,13 +17,13 @@ besoins des apprenants, qu'ils soient débutants ou avancés. Cette plateforme c
 création de sites web dynamiques et interactifs [Cahier des Charges](https://github.com/Marouane124/Projet-UML/blob/main/Cahier%20des%20charges.pdf).
 
 ### <a name="use-case"></a> Diagramme de cas d'utilisation
-![Use Case Diagram](https://github.com/Marouane124/Projet-UML/assets/110178036/c86acd66-a24c-41fa-842f-875caea1c4e6)
+![Use Case Diagram](https://github.com/Marouane124/Projet-UML/assets/110178036/81121ae7-5787-410e-8552-fc48d5e46f50)
 
 ### <a name="class"></a> Diagramme de classe
-![Class Diagram](https://github.com/Marouane124/Projet-UML/assets/110178036/4f13fc58-f75a-48e5-ad27-a1828800c76b)
+![Class Diagram](https://github.com/Marouane124/Projet-UML/assets/110178036/c31b00ab-1bab-465c-8d7d-33bec66b55d5)
 
 ### <a name="sequence"></a> Diagramme de séquence
-![SequenceDiagram](https://github.com/Marouane124/Projet-UML/assets/110178036/efa9f75b-fbee-4081-a751-974fd44925c3)
+![SequenceDiagram](https://github.com/Marouane124/Projet-UML/assets/110178036/d4828109-e4db-4b87-be9d-6c0b86e25c22)
 
 ### <a name="etat-davancement"></a> Etat d'avancement
 -Nous avons modifié le cahier des charges et créé la première version du diagramme de cas d'utilisation et complété le fichier README avec des ancres(anchors) aux l'emplacements appropriés
