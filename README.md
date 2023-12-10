@@ -36,8 +36,6 @@ représente le programme 'Main' qui s'interesse aux interactions de l'utilisater
 ### <a name="sequence1"></a> La création d'un nouveau cours par un administrateur :
 Ce modèle sera représenté par deux classes supplémentaires : Admin et Cours.
 
-![SequenceDiagram](https://github.com/Marouane124/Projet-UML/assets/110178036/d4828109-e4db-4b87-be9d-6c0b86e25c22)
-
 ### <a name="sequence2"></a> L'inscription d'un visiteur sur la platforme :
 Ce modèle sera représenté par deux classes supplémentaires : Visiteur et Apprenant.
 
