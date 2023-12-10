@@ -3,7 +3,7 @@
 - [Cahier des Charges](#cahier-des-charges)
 - [Diagramme de cas d'utilisation](#use-case)
 - [Diagramme de classe](#class)
-- [Diagramme de séquence](#sequence)
+- [Diagrammes de séquence](#sequence)
 - [Collaborateurs](#Collaborateurs)
 
 ### <a name="cahier-des-charges"></a> Cahier des charges
@@ -21,8 +21,21 @@ création de sites web dynamiques et interactifs [Cahier des Charges](https://gi
 ### <a name="class"></a> Diagramme de classe
 ![Class Diagram](https://github.com/Marouane124/Projet-UML/assets/110178036/c31b00ab-1bab-465c-8d7d-33bec66b55d5)
 
-### <a name="sequence"></a> Diagramme de séquence
+### <a name="sequence"></a> Diagrammes de séquence
+Les diagrammes de séquence que nous développerons illustreront l’utilisation de deux cas d’utilisation spécifiques :
+- [La création d'un cours par un administrateur](#sequence1)
+- [Un apprenant qui passe un test de certificat](#sequence2)
+
+Pour ce faire, nous aborderons également la boîte blanche, qui nous permet de représenter les interactions entre les objets internes de l'application.
+
+### <a name="sequence1"></a> La creation d'un cours par un administrateur :
+Dans cette structure, nous introduirons une nouvelle classe, le contrôleur (Controller) qui est responsable de la logique de traitement.
+Enfin, le modèle sera représenté par les trois classes : admin, cours, chapitre, section.
 ![SequenceDiagram](https://github.com/Marouane124/Projet-UML/assets/110178036/d4828109-e4db-4b87-be9d-6c0b86e25c22)
+
+### <a name="sequence2"></a> Un apprenant qui passe un test de certificat :
+Dans cette structure, nous introduirons une nouvelle classe, le contrôleur (Controller) qui est responsable de la logique de traitement.
+Enfin, le modèle sera représenté par les trois classes : apprenant, cours, certificat.
 
 ### <a name="Collaborateurs"></a> Collaborateurs
 - **AIT KIKA Marouane**
