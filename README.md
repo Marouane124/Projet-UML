@@ -1,10 +1,9 @@
 
-## Table of Contents
+## Table de matières
 - [Cahier des Charges](#cahier-des-charges)
 - [Diagramme de cas d'utilisation](#use-case)
 - [Diagramme de classe](#class)
 - [Diagramme de séquence](#sequence)
-- [Etat d'avancement](#etat-davancement)
 - [Collaborateurs](#Collaborateurs)
 
 ### <a name="cahier-des-charges"></a> Cahier des charges
@@ -24,13 +23,6 @@ création de sites web dynamiques et interactifs [Cahier des Charges](https://gi
 
 ### <a name="sequence"></a> Diagramme de séquence
 ![SequenceDiagram](https://github.com/Marouane124/Projet-UML/assets/110178036/d4828109-e4db-4b87-be9d-6c0b86e25c22)
-
-### <a name="etat-davancement"></a> Etat d'avancement
--Nous avons modifié le cahier des charges et créé la première version du diagramme de cas d'utilisation et complété le fichier README avec des ancres(anchors) aux l'emplacements appropriés
-
--Revision du cahier des charges(modifications)
-
--Modification du diagramme de cas d'utilisation en fonction des fonctionnalitées du site web W3school
 
 ### <a name="Collaborateurs"></a> Collaborateurs
 - **AIT KIKA Marouane**
