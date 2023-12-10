@@ -23,19 +23,35 @@ création de sites web dynamiques et interactifs [Cahier des Charges](https://gi
 
 ### <a name="sequence"></a> Diagrammes de séquence
 Les diagrammes de séquence que nous développerons illustreront l’utilisation de deux cas d’utilisation spécifiques :
-- [La création d'un cours par un administrateur](#sequence1)
-- [Un apprenant qui passe un test de certificat](#sequence2)
+- [La création d'un nouveau cours par un administrateur](#sequence1)
+- [L'inscription d'un visiteur sur la platforme](#sequence2)
+- [La connection d'un apprenant à la platforme](#sequence3)
+- [Consultation d'un cours par un apprenant](#sequence4)
+- [L'inscription d'un apprenant dans un cours](#sequence5)
 
-Pour ce faire, nous aborderons également la boîte blanche, qui nous permet de représenter les interactions entre les objets internes de l'application.
+Pour ce faire, nous aborderons la boîte blanche, qui nous permet de représenter les interactions entre les objets internes de l'application.
+Dans cette structure, nous introduirons trois nouvelles classes; le contrôleur (Controller) qui est responsable de la logique de traitement, la classe view qui
+représente le programme 'Main' qui s'interesse aux interactions de l'utilisater et lase Base de donnée qui s'occupera de la connection et les traitements sur la BD.
 
-### <a name="sequence1"></a> La creation d'un cours par un administrateur :
-Dans cette structure, nous introduirons une nouvelle classe, le contrôleur (Controller) qui est responsable de la logique de traitement.
-Enfin, le modèle sera représenté par les trois classes : admin, cours, chapitre, section.
+### <a name="sequence1"></a> La création d'un nouveau cours par un administrateur :
+Ce modèle sera représenté par deux classes supplémentaires : Admin et Cours.
+
 ![SequenceDiagram](https://github.com/Marouane124/Projet-UML/assets/110178036/d4828109-e4db-4b87-be9d-6c0b86e25c22)
 
-### <a name="sequence2"></a> Un apprenant qui passe un test de certificat :
-Dans cette structure, nous introduirons une nouvelle classe, le contrôleur (Controller) qui est responsable de la logique de traitement.
-Enfin, le modèle sera représenté par les trois classes : apprenant, cours, certificat.
+### <a name="sequence2"></a> L'inscription d'un visiteur sur la platforme :
+Ce modèle sera représenté par deux classes supplémentaires : Visiteur et Apprenant.
+
+### <a name="sequence3"></a> La connection d'un apprenant à la platforme :
+Ce modèle sera représenté par une classe supplémentaire : Apprenant.
+
+### <a name="sequence4"></a> Consultation d'un cours par un apprenant :
+Ce modèle sera représenté par une classe supplémentaire : Cours.
+
+### <a name="sequence5"></a> L'inscription d'un apprenant dans un cours :
+Ce modèle sera représenté par une classe supplémentaire : Cours.
+
+Il integre aussi le diagramme de sequence de la consultaion d'un cours.
+
 
 ### <a name="Collaborateurs"></a> Collaborateurs
 - **AIT KIKA Marouane**
