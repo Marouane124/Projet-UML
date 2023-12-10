@@ -22,7 +22,7 @@ création de sites web dynamiques et interactifs [Cahier des Charges](https://gi
 ![Class Diagram](https://github.com/Marouane124/Projet-UML/assets/110178036/c31b00ab-1bab-465c-8d7d-33bec66b55d5)
 
 ## <a name="sequence"></a> Diagrammes de séquence
-Les diagrammes de séquence que nous développerons illustreront l’utilisation de deux cas d’utilisation spécifiques :
+Les diagrammes de séquence que nous développerons illustreront l’utilisation de cinq cas d’utilisation spécifiques :
 - [La création d'un nouveau cours par un administrateur](#sequence1)
 - [L'inscription d'un visiteur sur la platforme](#sequence2)
 - [La connection d'un apprenant à la platforme](#sequence3)
