@@ -24,6 +24,7 @@ création de sites web dynamiques et interactifs [Cahier des Charges](https://gi
 ## <a name="sequence"></a> Diagrammes de séquence
 Les diagrammes de séquence que nous développerons illustreront l’utilisation de cinq cas d’utilisation spécifiques :
 - [La création d'un nouveau cours par un administrateur](#sequence1)
+- [La connection d'un administrateur à la platforme](#sequence6)
 - [L'inscription d'un visiteur sur la platforme](#sequence2)
 - [La connection d'un apprenant à la platforme](#sequence3)
 - [Consultation d'un cours par un apprenant](#sequence4)
@@ -34,22 +35,30 @@ Dans cette structure, nous introduirons trois nouvelles classes; le contrôleur 
 représente le programme 'Main' qui s'interesse aux interactions de l'utilisater et lase Base de donnée qui s'occupera de la connection et les traitements sur la BD.
 
 ### <a name="sequence1"></a> La création d'un nouveau cours par un administrateur :
-Ce modèle sera représenté par deux classes supplémentaires : Admin et Cours.
-![https://github.com/Marouane124/Projet-UML/blob/ec220ac91101fb97c85355b403867b3d8891c296/Diagrammes/Diagramme%20de%20sequence%20Y/s'inscrire!s'inscrire!s'inscrire_0.svg](https://github.com/Marouane124/Projet-UML/blob/ec220ac91101fb97c85355b403867b3d8891c296/Diagrammes/Diagramme%20de%20sequence%20Y/s'inscrire!s'inscrire!s'inscrire_0.svg)
+Ce modèle sera représenté par quatres classes supplémentaires : Admin, Cours, Section et Chapitre.
+![diS](https://github.com/Marouane124/Projet-UML/blob/63903767719b58cfbe3ec2b018adc23a25e7bbb8/Diagrammes/Diagramme%20de%20sequence%20Y/ajouter%20nouveau%20cours!ajouter%20nouveau%20cours!ajouter%20nouveau%20cours_5.jpg)
+
+### <a name="sequence6"></a> La connection d'un administrateur à la platforme :
+Ce modèle sera représenté par une seule classe supplémentaire : Admin.
+![diS](https://github.com/Marouane124/Projet-UML/blob/63903767719b58cfbe3ec2b018adc23a25e7bbb8/Diagrammes/Diagramme%20de%20sequence%20Y/se%20Connecter%20Admin!se%20Connecter%20Admin!se%20Connecter%20Admin_6.jpg)
+
 ### <a name="sequence2"></a> L'inscription d'un visiteur sur la platforme :
-Ce modèle sera représenté par deux classes supplémentaires : Visiteur et Apprenant.
+Ce modèle sera représenté par une seule classe supplémentaire : Apprenant.
+![diS](https://github.com/Marouane124/Projet-UML/blob/63903767719b58cfbe3ec2b018adc23a25e7bbb8/Diagrammes/Diagramme%20de%20sequence%20Y/s'inscrire!s'inscrire!s'inscrire_0.jpg)
 
 ### <a name="sequence3"></a> La connection d'un apprenant à la platforme :
 Ce modèle sera représenté par une classe supplémentaire : Apprenant.
+![diS](https://github.com/Marouane124/Projet-UML/blob/63903767719b58cfbe3ec2b018adc23a25e7bbb8/Diagrammes/Diagramme%20de%20sequence%20Y/se%20Connecter%20Apprenant!se%20Connecter%20Apprenant!se%20Connecter%20Apprenant_2.jpg)
 
 ### <a name="sequence4"></a> Consultation d'un cours par un apprenant :
 Ce modèle sera représenté par une classe supplémentaire : Cours.
+![diS](https://github.com/Marouane124/Projet-UML/blob/63903767719b58cfbe3ec2b018adc23a25e7bbb8/Diagrammes/Diagramme%20de%20sequence%20Y/consulter%20les%20cours!consulter%20les%20cours!consulter%20les%20cours_3.jpg)
 
 ### <a name="sequence5"></a> L'inscription d'un apprenant dans un cours :
 Ce modèle sera représenté par une classe supplémentaire : Cours.
 
 Il integre aussi le diagramme de sequence de la consultaion d'un cours.
-
+![diS](https://github.com/Marouane124/Projet-UML/blob/63903767719b58cfbe3ec2b018adc23a25e7bbb8/Diagrammes/Diagramme%20de%20sequence%20Y/s'inscrire%20dasn%20un%20cours!s'inscrire%20dasn%20un%20cours!s'inscrire%20dasn%20un%20cours_4.jpg)
 
 ### <a name="Collaborateurs"></a> Collaborateurs
 - **AIT KIKA Marouane**
