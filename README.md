@@ -35,7 +35,7 @@ représente le programme 'Main' qui s'interesse aux interactions de l'utilisater
 
 ### <a name="sequence1"></a> La création d'un nouveau cours par un administrateur :
 Ce modèle sera représenté par deux classes supplémentaires : Admin et Cours.
-
+![https://github.com/Marouane124/Projet-UML/blob/ec220ac91101fb97c85355b403867b3d8891c296/Diagrammes/Diagramme%20de%20sequence%20Y/s'inscrire!s'inscrire!s'inscrire_0.svg](https://github.com/Marouane124/Projet-UML/blob/ec220ac91101fb97c85355b403867b3d8891c296/Diagrammes/Diagramme%20de%20sequence%20Y/s'inscrire!s'inscrire!s'inscrire_0.svg)
 ### <a name="sequence2"></a> L'inscription d'un visiteur sur la platforme :
 Ce modèle sera représenté par deux classes supplémentaires : Visiteur et Apprenant.
 
